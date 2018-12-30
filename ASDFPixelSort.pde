@@ -5,7 +5,7 @@
  ASDF Pixel Sort
 
  Kim Asendorf | 2010 | kimasendorf.com
-modified by Jabali Ndungu - github.com/WeaponXII
+modified by Jabali Ndungu| 2018| github.com/WeaponXII
  
 
  sorting modes
