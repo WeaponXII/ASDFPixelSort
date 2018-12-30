@@ -1,11 +1,10 @@
 ASDFPixelSort
 =============
 
-Processing script to sort portions of pixels in an image.
+A Processing script to sort portions of pixels in an image.
+I've updated it to include new sorting modes. All the available sorting modes are commented at the beginning of the processing file.
+Future updates will include more working sorting modes.
 
-DEMO:
-http://kimasendorf.com/mountain-tour/
-http://kimasendorf.com/sorted-aerial/
 
 
 Kim Asendorf 2010
